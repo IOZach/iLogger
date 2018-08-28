@@ -33,7 +33,7 @@ Windows Console application that key logs all keystroke on both mouse and keyboa
 
 Copyright (c) 2016, IOZach.
 
-Written by Zachariah Windett <zachwindett@gmail.com>
+Written by Zakaria Abushima <hello@princez.uk>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
