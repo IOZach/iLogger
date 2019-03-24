@@ -31,9 +31,9 @@ You need Visual Studio to run the solution.
 
 Windows Console application that key logs all keystroke on both mouse and keyboard.
 
-Copyright (c) 2016, IOZach.
+Copyright (c) 2016, PrinceZUK.
 
-Written by Zakaria Abushima <hello@princez.uk>
+Written by Zakaria Bin Faisal bin Abdulaziz Al Saud <hello@princez.uk>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
